@@ -1,7 +1,7 @@
 # Nike-shoes-store
 
 <ul>
-    <li>Nike Shoes Store é um projeto desenvolvido com intuito academico. O site é uma loja de tênis com alguns produtos especificos</li>
+    <li>Nike Shoes Store é um projeto desenvolvido com cunho acadêmico. O site é uma loja de tênis com alguns produtos especificos</li>
     <li>Nike Shoes Store is a project developed with academic intent. The site is a sneaker store with some specific products</li>
 </ul>
 
