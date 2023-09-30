@@ -1,5 +1,10 @@
 # Nike-shoes-store
 
+<ul>
+    <li>Nike Shoes Store é um projeto desenvolvido com intuito academico. O site é uma loja de tênis com alguns produtos especificos</li>
+    <li>Nike Shoes Store é um projeto desenvolvido com intuito acadêmico. O site é uma loja de tênis com alguns produtos específicos</li>
+</ul>
+
 ## Home Page:
 ![home page](https://github.com/ViniciusV4/Nike-shoes-store/blob/main/projeto-02-nike-shoes-OK/img/img-full-project/home.png?raw=true)
 
